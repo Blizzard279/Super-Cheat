@@ -1,6 +1,6 @@
 type: flying
 name: Super Serpulo Ship
-speed: 8
+speed: 9
 accel: 0.25
 drag: 0
 mineSpeed: 9999
